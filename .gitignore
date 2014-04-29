@@ -1,0 +1,6 @@
+*.ids
+*.iml
+*.ipr
+*.iws
+out/*
+build/*
